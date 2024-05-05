@@ -7,10 +7,7 @@ An automated teller machine (ATM) is an electronic banking outlet that allows cu
 # About Project:
 In this Project there are 5 options given to the user, first is "Check Balance", the second is "Withdrawn Amount", the third is "Fast Cash", the fourth is "Deposit Amount" and the last one is Exit from this Program.
 
-to run this program you have to enter your first name, last name, and email address, and then you have to create a 4-digit PIN. After signing up you have to log in with your email address and 4-digit PIN and then you can easily Deposit the Amount and Withdraw the Amount with the help of the manual and fast cash option.
-
-# NOTE
-This project is for absolute newbies who just started their programming journey in C++. Those who want to start with the Open Source can begin their journey with this project.
+To run this program you have to enter your first name, last name, and email address, and then you have to create a 4-digit PIN. After signing up you have to log in with your email address and 4-digit PIN and then you can easily Deposit the Amount and Withdraw the Amount with the help of the manual and fast cash option.
 
 # How to Start Contribution
 Step 1: Fork the project.<br>
