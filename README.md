@@ -13,11 +13,8 @@ to run this program you have to enter your first name, last name, and email addr
 This project is for absolute newbies who just started their programming journey in C++. Those who want to start with the Open Source can begin their journey with this project.
 
 # How to Start Contribution
-Step 1: Fork the project.
-Step 2: Clone the project in your local machine.
-Step 3: Create a new branch and start your contribution.
-Step 4: Push the updated files from your created branch.
+Step 1: Fork the project.<br>
+Step 2: Clone the project in your local machine.<br>
+Step 3: Create a new branch and start your contribution.>br>
+Step 4: Push the updated files from your created branch.<br>
 Step 5: Create a Pull Request (PR).
-Contributors
-Thanks to everyone for all your contributions.
-
